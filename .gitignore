@@ -1,0 +1,3 @@
+*.pyc
+utils/knn_search
+sghr.egg-info
