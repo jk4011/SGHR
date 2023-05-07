@@ -9,7 +9,7 @@ setup(
     author="Jinhyeok Kim",
     author_email="jinhyuk@unist.ac.kr",
     install_requires=[],
-    packages=["TransSync"],
+    packages=["sghr"],
     python_requires=">=3.7, <4",
     project_urls={
         "Source": "https://github.com/jk4011/sghr",

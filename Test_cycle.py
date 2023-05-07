@@ -5,8 +5,8 @@ from utils.T_eval import *
 from utils.r_eval import compute_R_diff
 from utils.utils import make_non_exists_dir
 from dataops.dataset import get_dataset_name
-from TransSync.p2p_reg import name2estimator
-from TransSync.Laplacian_TS import pair2globalT_cycle
+from sghr.p2p_reg import name2estimator
+from sghr.Laplacian_TS import pair2globalT_cycle
 
 
 class cycle_tester():
